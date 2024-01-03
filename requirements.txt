@@ -1,0 +1,4 @@
+cv2
+pyrealsense2          
+numpy                     
+
